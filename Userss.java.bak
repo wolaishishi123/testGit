@@ -2,4 +2,14 @@ class User
 {
 	private String name;
 	long id;
+<<<<<<< Updated upstream
+	解决bug
 }
+=======
+	bug
+}
+class AAA
+{
+	CRUD做了一半
+}
+>>>>>>> Stashed changes
