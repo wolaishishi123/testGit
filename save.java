@@ -1,3 +1,3 @@
 class A{
-	bug
+	½â¾öbug
 }
