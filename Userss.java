@@ -8,6 +8,6 @@ class User
 
 class AAA
 {
-	CRUD做了一半
+	CRUD做完
 }
 
